@@ -1,0 +1,13 @@
+UPPER SCENARIO:
+WHAT IS OS?
+WHAT ARE THE DIFFERENT OS?
+WHEN IS OS USED?
+WHAT IS PARTITION AND ITS USE?
+HOW MANY PARTITIONS CAN BE DONE?
+
+lower scenario:
+what is os?
+what are the different os?
+when is os used?
+what is partition and its use?
+how many partitions can be done?
